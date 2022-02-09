@@ -1,4 +1,30 @@
-.inline-block { vertical-align: top;}
-.logo {width: 23%; padding: 1%; text-align: center;}
-.nav {width: 73%; padding: 1%;}
-.ul { width: 50%; margin-left: auto;}
+html, body, footer
+{ margin: 0; padding: 0;}
+.inline-block
+{display: inline-block;}
+.logo 
+{padding: 100px;
+ position:absolute;
+ right: 250px   
+}
+.topnav {
+    width: 100%;
+     padding: .3%;
+    background-color: #f1f0ff;
+    position: relative;
+    }
+.navlist{
+    text-align: center; 
+    margin-top: 20px;
+    margin-right: 20px;
+    
+
+}
+.list{
+    font-size: 45px;    
+}
+li{
+    display: inline; 
+    list-style-type: none;
+    padding: 80px; 
+}
