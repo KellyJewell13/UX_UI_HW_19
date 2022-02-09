@@ -4,14 +4,16 @@ html, body, footer
 {display: inline-block;}
 .logo 
 {padding: 100px;
- position:absolute;
- right: 250px   
+ position:absolute; 
+ 
+ 
 }
 .topnav {
     width: 100%;
      padding: .3%;
     background-color: #f1f0ff;
     position: relative;
+   
     }
 .navlist{
     text-align: center; 
