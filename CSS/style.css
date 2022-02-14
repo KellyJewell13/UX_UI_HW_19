@@ -64,7 +64,8 @@
 }
 
 .profile{
-    width:60%;
+    width: 40%;
+  
    
   
   
@@ -75,7 +76,7 @@
 
 /*container for about me text*/
 .aboutMeText {
-    width: 50%;
+    width: 60%;
     }
 
 /* about me text */ 
