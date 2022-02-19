@@ -17,6 +17,7 @@
    
     
 }   
+
 /* navigation buttons container */  
 .inline-block {
     display: inline-block;
@@ -131,22 +132,20 @@
     .h2 {
     font-size: 40px;
     font-family:'Montserrat', sans-serif;
+}
+
+
+
+.mywork{
+    background-color: #8a9bb9;
   
-
-
-}
-.flexcontainer{
-    display:flex;
+    width: 100%;
    
- 
 
-    background-color: #cedcf5;
-    border: none;
-    padding: 0%;
-
-
-
+    font-size: 40px;
 }
+
+
 
 /* Style the buttons that are used to open and close the accordion panel */
 .accordion {
@@ -164,7 +163,8 @@
   
   /* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
   .active, .accordion:hover {
-    background-color: #ccc;
+    background-color: #8a9bb9;
+
   }
   
   /* Style the accordion panel. Note: hidden by default */
@@ -178,7 +178,7 @@
   .accordion:after {
     content: '\02795'; /* Unicode character for "plus" sign (+) */
     font-size: 13px;
-    color: #777;
+
     float: right;
     margin-left: 5px;
   }
@@ -187,68 +187,9 @@
     content: "\2796"; /* Unicode character for "minus" sign (-) */
   }
 
-.project1{
-    width:33%;
-    background-color: #cedcf5;
-    margin-top: 50px;
-    margin-bottom: 50px;
-    padding-top: 30px;
-    padding-bottom: 1px;
+.accordion{background-color: #cedcf5;}
 
 
     
-}
-.project2{
-    width:33%;
-    background-color: #cedcf5;
-    margin-top: 50px;
-    margin-bottom: 50px;
-    padding-top: 30px;
-    padding-bottom: 1px;
 
-}
-
-.project3{
-    width:33%;
-    background-color: #cedcf5;
-    margin-top: 50px;
-    margin-bottom: 50px;
-    padding-top: 30px;
-    padding-bottom: 1px;
-    height:1000px
-}
-
-.img1{
-    position: absolute;
-    height: 800px;
-    width: 922px;
-    padding-top: 30px;
-    padding-bottom: 50px;
-    padding-left: 50px;
-    padding-right: 50px;
-  
-}
-
-.img2{
-    position: absolute;
-    height: 800px;
-    width: 922px;
-    padding-top: 30px;
-    padding-bottom: 50px;
-    padding-left: 50px;
-    padding-right: 50px;
-    
-    
-}
-
-.img3{
-    position: absolute;
-    height: 800px;
-    width: 922px;
-    padding-top: 30px;
-    padding-bottom: 50px;
-    padding-left: 50px;
-    padding-right: 50px;
-    
-}
    
