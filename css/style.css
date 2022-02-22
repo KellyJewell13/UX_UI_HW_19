@@ -97,15 +97,7 @@
     padding-right: 7%;
 }
 /* footer with contact info and social media buttons */
-.footer {
-    background-color:#3a2d32;
-    position:relative;
-    width: 100%;
-    height: 200px;
-    color: white;
-    text-align: center;
-    margin-top: 1px;
-    padding: 10px;
+
 }
 .socialMediaButtons {
     display: inline-block;
@@ -136,11 +128,11 @@
 
 
 
-.mywork{
+.header2{
     background-color: #8a9bb9;
   
     width: 100%;
-   
+    color:white;
 
     font-size: 40px;
 }
